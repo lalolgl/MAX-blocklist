@@ -1,3 +1,7 @@
+# ==============================================================================
+# CORE MAX MESSENGER DOMAINS
+# ==============================================================================
+
 max.ru
 web.max.ru
 api.oneme.ru
@@ -14,21 +18,54 @@ frontend.sferum-dev.ru
 platform-api.sferum-dev.ru
 tracker-api.oneme.ru
 tracker-api.max.ru
+oneme.ru
+
+# ==============================================================================
+# VK COMPANY DOMAINS
+# ==============================================================================
+
 vk.com
 vk.ru
 userapi.com
+vkontakte.ru
+m.vk.com
+api.vk.com
+oauth.vk.com
+login.vk.com
+
+# ==============================================================================
+# YANDEX SERVICES
+# ==============================================================================
+
 yandex.ru
 mc.yandex.ru
 metrica.yandex.ru
+appmetrica.yandex.ru
 maps.yandex.ru
-fcm.googleapis.com
-firebaseinstallations.googleapis.com
-googleapis.com
+yandexnet.ru
+clck.ru
+weather.yandex.ru
+static-maps.yandex.ru
+api-maps.yandex.ru
+vec01.maps.yandex.ru
+vec02.maps.yandex.ru
+satellite.maps.yandex.ru
+html5maps.mobile.yandex.net
+
+# ==============================================================================
+# KASPERSKY INTEGRATION
+# ==============================================================================
+
 kaspersky.com
 kaspersky.ru
+klabs.ru
+kaspersky-labs.com
+
+# ==============================================================================
+# GOVERNMENT SERVICES
+# ==============================================================================
+
 gosuslugi.ru
-mail.ru
-cloudflare.com
-akamai.net
-fastly.com
-sentry.io
+gosuslugi.com
+gosuslugi.org
+gosapi.gosuslugi.ru
